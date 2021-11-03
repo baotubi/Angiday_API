@@ -59,7 +59,7 @@
     "sweetalert2": "^6.4.3",
     "systemjs": "0.19.41",
     "traceur": "0.0.111",
-    "validator": "^6.2.1",
+    "validator": "^13.7.0",
     "winston": "^2.3.0",
     "zone.js": "^0.7.2"
   },
